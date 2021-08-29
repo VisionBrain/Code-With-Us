@@ -1,6 +1,6 @@
 
 # Code With Us
-Hi! We have made a Python roadmap for 30-days where participants can learn everything they need to know from the basics to a deep dive into machine learning, data analysis, and deep learning
+Hi! We have made a Python roadmap for 10 Week where participants can learn everything they need to know from the basics to a deep dive into machine learning, data analysis, and deep learning
 
 
 ## Installation Required
