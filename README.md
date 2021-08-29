@@ -24,4 +24,8 @@ Hi! We have made a Python roadmap for 30-days where participants can learn every
     11.Pillow
     12.Tkinter    
 ```
+## Authors
+
+- [@Aryan Karn](https://github.com/Aryan05)
+- [@Dharm Raj Maurya](https://github.com/Dharm1999)
     
