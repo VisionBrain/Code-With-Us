@@ -100,4 +100,5 @@ Hi! We have made a Python roadmap for 10 Week where participants can learn every
 
 - [@Aryan Karn](https://github.com/Aryan05)
 - [@Dharm Raj Maurya](https://github.com/Dharm1999)
+- We would also like to acknowledge many other developers for the code which was made available on Github.
     
